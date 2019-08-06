@@ -1,3 +1,10 @@
+* Disclamer
+
+All credit goes to @a-dma. This fork is purely so I can maintain [supply chain security](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502).
+
+------
+
+
 * YubiTouch
 
 A Bash script for setting or clearing touch requests for cryptographic
